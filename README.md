@@ -1,5 +1,5 @@
-| 文件名                | 大小            | 说明                                     |
-| -----------------=-- | --------------- | ---------------------------------------- |
-| BANDIZIP6-SETUP.EXE  | 1 970 915 bytes | bandizip 是一个解压软件（这里提供无广告版） |
-| everything.exe       | —               | everything 是一个快速查找文件             |
-| geek.exe             | —               | geek 是一个删除软件                       |
+BANDIZIP6-SETUP.EXE – 1 970 915 bytes，bandizip 无广告解压软件  
+everything.exe – everything 快速查找文件  
+geek.exe – geek 删除软件  
+
+三文件均已上传，直链可用。
